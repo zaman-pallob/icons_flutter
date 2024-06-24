@@ -4,7 +4,7 @@ version: 0.0.4
 homepage: https://github.com/arsarsars1/icons_flutter.git
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
+  sdk: '>=3.1.1 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,7 +14,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^2.0.1
   recase: ^4.0.0
 
 flutter:
